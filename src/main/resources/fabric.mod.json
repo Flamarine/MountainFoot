@@ -10,10 +10,10 @@
   ],
   "contact": {
     "homepage": "https://github.com/Peakstep233",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Peakstep233/MountainFoot"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT License",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
@@ -35,6 +35,6 @@
     "minecraft": "1.17.x"
   },
   "suggests": {
-    "flamingo": "*"
+    "we_do_not_need_flamingo": "*"
   }
 }
